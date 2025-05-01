@@ -45,18 +45,16 @@ I am a dedicated and versatile learner with a strong background in AI/ML develop
 
 ## 🏗️ Major Projects
 
-### 🔹 [Dynamic ADAS](https://github.com/aritraghoshdastidar/dynamic-adas) — *Semester 4 CIE Tech Project*  
+### 🔹 [Dynamic ADAS](https://github.com/aritraghoshdastidar/dynamic-adas) —  
 Real-time object detection system using dynamic model switching (YOLOv7X and YOLOv11S) based on system load (CPU/RAM). Built for edge deployment and tested on BDD100K dataset.
 
-[![Watch the demo](https://img.youtube.com/vi/cIjDnH12Plc/0.jpg)](https://youtu.be/cIjDnH12Plc)
-
-### 🔹 Mood for Spotify  
+### 🔹 [Mood for Spotify](https://github.com/Aritraghoshdastidar/mood_for_spotify)  
 A personalized music recommendation engine using NLP and Spotify API based on user's mood.
 
-### 🔹 Brain Tumor Classification  
+### 🔹 [Brain Tumor Classification](https://github.com/Aritraghoshdastidar/MRI-Brain-Tumor-Classification)  
 Achieved 99% precision using CNNs trained on medical imaging datasets.
 
-### 🔹 Recipe Recommendation Bot  
+### 🔹 [Recipe Recommendation Bot](https://github.com/Aritraghoshdastidar/NomNomChatbot)-  
 Built using NLP techniques like tokenization, vectorization, and LLM integration.
 
 ---
