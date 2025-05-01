@@ -22,11 +22,24 @@ I am a dedicated and versatile learner with a strong background in AI/ML develop
 
 ## 💻 Tech Stack
 
-- **Languages**: Python, JavaScript, SQL  
-- **AI/ML Tools**: TensorFlow, PyTorch, Hugging Face, OpenCV  
-- **Web Dev**: HTML, CSS, React.js, Node.js, MongoDB  
-- **Other Tools**: Git, Postman, Figma, psutil  
-- **Edge AI**: ONNX Runtime, TensorRT, NVIDIA Jetson  
+- **AI & Machine Learning:**  
+  TensorFlow · PyTorch · OpenCV · Hugging Face Transformers · CNNs · Time-Series Analysis  
+
+- **NLP & Chatbots:**  
+  Tokenization & Vectorization · LLM Integration · Document QA Systems · Custom Chatbot Development  
+
+- **Web Development:**  
+  HTML · CSS · JavaScript · React.js · Node.js · Express.js · MongoDB · RESTful APIs · OAuth  
+
+- **Data Analysis & Cloud:**  
+  SQL · Pandas · NumPy · Matplotlib · Google Cloud Platform · Docker · GitHub Actions  
+
+- **Edge & Deployment:**  
+  NVIDIA Jetson (TensorRT) · ONNX Runtime · psutil · 5G V2X & Multi-access Edge Computing  
+
+- **Tools & Collaboration:**  
+  Git · Postman · Figma · WinDirStat · VS Code  
+ 
 
 ---
 
