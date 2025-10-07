@@ -79,7 +79,7 @@ Custom chatbot with tokenization, vectorization, and LLM integrations.
 ## 🧑‍🔬 Internships  
 - **ISFCR/5G Lab** — Research intern on 5G-enabled ADAS, MEC integration & cloud model updates  
 - **Accenture US (Virtual)** — Data Visualization  
-- **NullClass Academy** — Data Analytics (ongoing)
+- **NullClass Academy** — Data Analytics
 
 ---
 
