@@ -1,6 +1,7 @@
 # Hi, I’m **Aritra Ghosh Dastidar** 👋  
 AI/ML Developer | Edge-AI & AIML machine learning enthusiast  
 PES University ’27 | Intern @ ISFCR/5G Lab | Bengaluru, India  
+https://portfolio-cc-bay.vercel.app/
 
 ---
 
